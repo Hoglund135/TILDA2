@@ -177,7 +177,7 @@ def knasAtomFinnsInte(hashtabell):
         print(knasnamn, "fanns inte med i hashtabellen.")
         return True
 
-atomlista = skapaAtomlista()
-hashtabell = lagraHashtabell(atomlista)
-allaAtomerFinns(hashtabell, atomlista)    
-knasAtomFinnsInte(hashtabell)
+#atomlista = skapaAtomlista()
+#hashtabell = lagraHashtabell(atomlista)
+#allaAtomerFinns(hashtabell, atomlista)    
+#knasAtomFinnsInte(hashtabell)
